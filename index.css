@@ -1,0 +1,56 @@
+/* Write your code here. */
+.div1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.div2 {
+  background-color: #0b69ff;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 300px;
+  border-radius: 3px;
+  margin: 15px;
+}
+
+.div3 {
+  background-color: #2dca73;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 300px;
+  border-radius: 3px;
+  margin: 15px;
+}
+.div4 {
+  background-color: #ffb800;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 300px;
+  border-radius: 3px;
+  margin: 15px;
+}
+.div5 {
+  background-color: #ff0b37;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 300px;
+  border-radius: 3px;
+  margin: 15px;
+}
+.xx {
+  height: 15px;
+  width: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+.p1 {
+  color: #ffffff;
+  margin-left: 10px;
+  padding-bottom: 5px;
+}
